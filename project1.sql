@@ -1,10 +1,6 @@
--- phpMyAdmin SQL Dump
--- version 4.8.3
--- https://www.phpmyadmin.net/
---
--- Host: localhost
--- Generation Time: Nov 01, 2018 at 03:08 PM
--- Server version: 10.1.36-MariaDB
+-- postgresql dump file
+-- Dumped from database version 10.4
+-- Dumped by pg_dump version 10.4
 -- PHP Version: 7.2.10
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
